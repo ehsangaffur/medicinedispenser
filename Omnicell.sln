@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Omnicell", "Omnicell\Omnicell.csproj", "{8A2FB496-CA67-4DFA-920E-E2A34DC6DEB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A2FB496-CA67-4DFA-920E-E2A34DC6DEB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A2FB496-CA67-4DFA-920E-E2A34DC6DEB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A2FB496-CA67-4DFA-920E-E2A34DC6DEB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A2FB496-CA67-4DFA-920E-E2A34DC6DEB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD4071B9-6993-43C4-8E79-46AF1C2464AA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\egaff\source\repos\Omnicell\Omnicell\bin\Debug\netcoreapp3.1\Omnicell.exe
+C:\Users\egaff\source\repos\Omnicell\Omnicell\bin\Debug\netcoreapp3.1\Omnicell.deps.json
+C:\Users\egaff\source\repos\Omnicell\Omnicell\bin\Debug\netcoreapp3.1\Omnicell.runtimeconfig.json
+C:\Users\egaff\source\repos\Omnicell\Omnicell\bin\Debug\netcoreapp3.1\Omnicell.runtimeconfig.dev.json
+C:\Users\egaff\source\repos\Omnicell\Omnicell\bin\Debug\netcoreapp3.1\Omnicell.dll
+C:\Users\egaff\source\repos\Omnicell\Omnicell\bin\Debug\netcoreapp3.1\Omnicell.pdb
+C:\Users\egaff\source\repos\Omnicell\Omnicell\obj\Debug\netcoreapp3.1\Omnicell.csproj.CoreCompileInputs.cache
+C:\Users\egaff\source\repos\Omnicell\Omnicell\obj\Debug\netcoreapp3.1\Omnicell.AssemblyInfoInputs.cache
+C:\Users\egaff\source\repos\Omnicell\Omnicell\obj\Debug\netcoreapp3.1\Omnicell.AssemblyInfo.cs
+C:\Users\egaff\source\repos\Omnicell\Omnicell\obj\Debug\netcoreapp3.1\Omnicell.dll
+C:\Users\egaff\source\repos\Omnicell\Omnicell\obj\Debug\netcoreapp3.1\Omnicell.pdb
+C:\Users\egaff\source\repos\Omnicell\Omnicell\obj\Debug\netcoreapp3.1\Omnicell.genruntimeconfig.cache
